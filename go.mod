@@ -1,4 +1,4 @@
-module fsweb
+module github.com/blacknight2018/fsweb
 
 go 1.18
 
